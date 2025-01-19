@@ -28,5 +28,11 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "cSpell.words": [
         "grotesk"
-    ]
+    ],
+    "files.exclude": {        
+    "**/.vscode": true,
+    "**/.next": true,
+    "**/.node_modules": true,
+    "**/.next-env.d.ts": true,
+    }
 }
