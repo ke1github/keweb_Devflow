@@ -35,5 +35,6 @@
     "**/.next": true,
     "**/.node_modules": true,
     "**/.next-env.d.ts": true,
-    }
+    },
+    "material-icon-theme.activeIconPack": "react"
 }
